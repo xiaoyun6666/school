@@ -5,5 +5,6 @@ public class Student {
 		System.out.println("常飞");
 		System.out.println("常飞1");
 		System.out.println("常飞2");
+		System.out.println("常飞3");
 	}
 }
