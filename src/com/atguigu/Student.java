@@ -12,5 +12,6 @@ public class Student {
 		System.out.println("xxxxxxx");
 		System.out.println("xxxxxxx");
 		System.out.println("吃饱了么");
+		System.out.println("巨佬！！！！");
 	}
 }
